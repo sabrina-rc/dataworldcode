@@ -23,6 +23,8 @@ Instructions:
    
    The script will generate two treemap files:
         
-        1. Treemap of EPA's spending by Major Object Class (classifies spending into 5 general expenditure categories)
+   1. Treemap of EPA's spending by Major Object Class (classifies spending into 5 general 
+      expenditure categories)
         
-        2. Treemap of EPA's spending by Secondary Object Class (classifies spending into more than 20 detailed expenditure categories)
+   2. Treemap of EPA's spending by Secondary Object Class (classifies spending into more than 
+      20 detailed expenditure categories)
