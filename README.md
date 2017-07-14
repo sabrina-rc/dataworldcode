@@ -1,5 +1,5 @@
 # dataworldcode
-Use Case for Data World: Create Treemaps for TAS Category Dataset
+Use Case for Data World: Create Treemaps Using TAS Category Dataset
 
 The R Script included can be used to generate two treemaps, using the datasets 
 available publically via api.usaspending.gov or posted in dataworld.
@@ -23,8 +23,8 @@ Instructions:
    
    The script will generate two treemap files:
         
-   1. Treemap of EPA's spending by Major Object Class (classifies spending into 5 general 
+   1. Treemap of the Department of Transportation's spending by Major Object Class (classifies spending into 5 general 
       expenditure categories)
         
-   2. Treemap of EPA's spending by Secondary Object Class (classifies spending into more than 
+   2. Treemap of Department of Transportation's spending by Secondary Object Class (classifies spending into more than 
       20 detailed expenditure categories)
